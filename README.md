@@ -1,2 +1,2 @@
 # Price-Aggregator---PACE
-Suite of Chrome extensions and Python scrapers for cross -platform competitor price extraction. Supports Idealo, Ceneo, Prisjakt, and Tweakers — fetches offers by EAN/GTIN, resolves redirect URLs, and exports to CSV/Excel. Includes anti-bot stealth, adaptive rate limiting, and auto-recovery.
+Leveraged GenAI to build a price comparison initiative across EU marketplaces,using platforms such as Idealo, Kelkoo, and PriceRunner for competitor intelligence expansion and pricing workflow optimization. Conducted EU5 market analysis, benchmarked platform effectiveness, and supported pilot sprints with a cross-functional core team to improve competitor coverage and analyst bandwidth; managed 4 marketplaces across the EU region
